@@ -31,4 +31,6 @@ fieldset > input, fieldset > select {
     border: double 2px #4242f29f;
     font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #fff;
+    text-align: center;
+    flex-direction: column;
 }
